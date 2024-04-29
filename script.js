@@ -16,12 +16,10 @@ Tipos de Inne´s
 link_a.innerText = `Proz Educação`
 
 lista2.innerHTML = `
-As cinco vantagens de se aprender JS:
+Três ótimos canais para o aprendizado de HTML, CSS e JS:
 <ol>
-    <li>um</li>
-    <li>dois</li>
-    <li>três</li>
-    <li>quatro</li>
-    <li>cinco</li>
+    <li><a href="https://www.youtube.com/@rafaellaballerini">Rafa Ballerini</a></li>
+    <li><a href="https://www.youtube.com/@CursoemVideo">Curso em Vídeo</a></li>
+    <li><a href="https://www.youtube.com/@canaldevclub">DevClub</a></li>
 <ol>
 `
