@@ -10,6 +10,7 @@ Tipos de Inne´s
 <ul>
     <li>A</li>
     <li>B</li>
+    <li>C</li>
 </ul>
 `;
 
